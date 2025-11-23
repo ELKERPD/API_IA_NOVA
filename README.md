@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 NOVA API IA - Documentación Completa
 
 ## Tabla de Contenidos
@@ -613,3 +614,7 @@ Para problemas o preguntas sobre la API:
 **Última actualización:** Noviembre 21, 2025
 
 ✅ Documentación Completa - Proyecto NOVA API IA
+=======
+# API_IA_NOVA
+PROYECTO  DE CASA INTELIGENTE UNIVERCIDAD
+>>>>>>> 99533923c0a605f9c34a65e8aaedb3a7bf22f289
